@@ -28,3 +28,7 @@ Make sure you have the following installed:
    npm i
 3. run the project:
    npm run dev
+
+
+https://github.com/user-attachments/assets/45c77bc9-9fce-45e8-bff4-3677cb80e769
+
